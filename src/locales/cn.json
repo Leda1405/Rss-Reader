@@ -1,0 +1,25 @@
+{
+    "goBackComponent": {
+      "back": "返回"
+    },
+    "switchLanguage": {
+      "select": "选择语言"
+    },
+    "header": {
+      "title": "RSS阅读器"
+    },
+    "listItem": {
+      "viewMore": "查看更多内容"
+    },
+    "elementList": {
+      "info": "点击修改",
+      "orderTitle": "按日期分类 ",
+      "ascending": "升序",
+      "descending": "降序",
+      "loading": "加载中",
+      "noResultsToShow": "无结果显示"
+    },
+    "addFeedInput": {
+      "info": "输入URL并按回车"
+    }
+  }

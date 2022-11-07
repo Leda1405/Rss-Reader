@@ -1,0 +1,25 @@
+{
+  "goBackComponent": {
+    "back": "Go back"
+  },
+  "switchLanguage": {
+    "select": "Select language"
+  },
+  "header": {
+    "title": "RSS Reader"
+  },
+  "listItem": {
+    "viewMore": "View more"
+  },
+  "elementList": {
+    "info": "Click to change: ",
+    "orderTitle": "Sorted by date ",
+    "ascending": "ascending",
+    "descending": "descending",
+    "loading": "Loading...",
+    "noResultsToShow": "No results to show"
+  },
+  "addFeedInput": {
+    "info": "Insert a valid feed URL and press enter key: "
+  }
+}
